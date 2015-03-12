@@ -1,0 +1,20 @@
+--- !ruby/object:Game
+player: !ruby/object:Player
+  name: K
+turn_count: 0
+secret_answer:
+- g
+- a
+- m
+- e
+- t
+- i
+- c
+blank_word:
+- " _ "
+- a
+- " _ "
+- e
+- " _ "
+- i
+- " _ "
